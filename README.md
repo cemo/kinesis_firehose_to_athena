@@ -1,5 +1,5 @@
-# kinesis firehose　to Athena (JST)
+# AWS Lambda function kinesis firehose　to Athena (JST)
 
-## kinesis firehoseで作成したS3のファイルをApache Hive方式のパーティション形式で別のバケットにコピーする。
- example: dt=2009-04-12-13-00
+ kinesis firehoseで作成したS3のファイルをApache Hive方式のパーティション形式で別のバケットにコピーする。<br />
+ example: dt=2009-04-12-13-00<br />
 ※TimezoneはAsia/Tokyoになる
